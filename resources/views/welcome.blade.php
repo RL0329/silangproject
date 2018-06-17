@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Hello Annie :)
+                    Hello Rey
                 </div>
 
                 <div class="links">
