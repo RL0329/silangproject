@@ -80,7 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Hello Annie Gerodias:)
-                    Hello Rey Lumagi
+                    Hello Rey Lumagui maam HAHAHHAHAHA
                 </div>
 
                 <div class="links">
