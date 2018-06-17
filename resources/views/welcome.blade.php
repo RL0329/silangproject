@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Annielyn :D
+                    Hello Annie :)
                 </div>
 
                 <div class="links">
