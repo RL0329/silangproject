@@ -79,8 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello Annie :)
-                    Hello Rey
+                    Hello Annie Gerodias:)
+                    Hello Rey Lumagi
                 </div>
 
                 <div class="links">
